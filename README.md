@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/6dbf6c2a-a1ab-4ada-b15b-693a228b55a5" /><br/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/361a089b-daae-4ff5-af88-97df10b1cc9b" /><br/>
 
 
 ## Programing Languages:
@@ -20,6 +20,6 @@
           
 </div><br/> 
 
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/02c84278-f1c8-4c57-b8f8-0b8e264a2d74" /><br/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/f61e813a-dfd8-47ff-9d31-57d65d2adcb6" /><br/>
 
 
